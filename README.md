@@ -44,7 +44,5 @@ Your sheet should have columns like:
 
 Point your Sheety project to this sheet and use the `/flightRadar/radar` endpoint in `sht_api`.
 
-## Usage
 
-Run the watcher:
 
