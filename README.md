@@ -9,6 +9,10 @@ A small Python script that watches flight prices for multiple routes defined in 
 - Writes the current best price and deeplink back into the sheet via Sheety.
 - Sends an email via Gmail SMTP when a new best price is detected.
 
+![Google Sheets](Screenshot%202025-12-29%20at%2016.37.55.png)
+![Output](Screenshot%202025-12-29%20at%2016.38.13.png)
+![Email](Screenshot%202025-12-29%20at%2016.39.05.png)
+
 ## Requirements
 
 - Python 3.10+
